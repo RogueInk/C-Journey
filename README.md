@@ -35,3 +35,8 @@ If you happen to come across this repository, feel free to reach out. Whether it
 
 Every small interaction helps make this journey a little more enjoyable and motivating.
 
+## PROJECT DESCRIPTIONS:
+* **FIRST OF ALL , at starting of each project file u can find project purpose commented so dw**
+* Project 1 : My first day learning so i just made simple claculation from variable pre given inputs
+* Project 2: My Second day learning , so i just made a simple user input program where i take what item user bought and quanity and price of item than add the total cost and display it to the user.
+
