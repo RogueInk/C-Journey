@@ -1,5 +1,6 @@
 // This program calculates the total monthly cost of electricity for various appliances.
 // Features: Grouping variables by type, Direct accumulation using math operators, and Printing the output with a new line at the end
+// Date: 2024-06-16
 
 #include <stdio.h>
 
