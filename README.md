@@ -44,4 +44,4 @@ Every small interaction helps make this journey a little more enjoyable and moti
 * **Just like my python diary , this gonna be my C diary**
 * So , First of all I think i hate C , its too confusing and too sensitive !
 * On 18 July , Saturday , I did no projects cuz still learning new topics did a madlib thing but it wasnt a project , pretty much basic thing that i already did use in my last 2 project.
-* I only make Project when i learn something new..
+* I only make Project when i learn something new.
