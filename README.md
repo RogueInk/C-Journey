@@ -47,3 +47,4 @@ Every small interaction helps make this journey a little more enjoyable and moti
 * On 18 July , Saturday , I did no projects cuz still learning new topics did a madlib thing but it wasnt a project , pretty much basic thing that i already did use in my last 2 project.
 * I only make Project when i learn something new.
 * On 19th July , Sunday Though a day to rest or just revise , i did study math library and used it to make a Compound Interest Calculator
+

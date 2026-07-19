@@ -1,3 +1,5 @@
+// A simple C program to calculate compound interest
+
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
