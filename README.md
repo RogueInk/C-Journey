@@ -1,51 +1,139 @@
-# C Language Journey 🛠️
+# 🚀 C Language Journey
 
-Hello and welcome to my C Language Journey repository! 
+> *"Every expert was once a beginner who refused to quit."*
 
-I started learning C on 16 July 2026, and shortly after, I realized that maintaining a GitHub repository is one of the best ways to document progress, track projects, and reflect on growth over time. This repository serves as a record of that journey—from writing my very first lines of code to, hopefully, becoming a skilled and respected developer in the future.
+Welcome to my C programming journey.
 
-## About Me
+I started learning **C on July 16, 2026**, and this repository documents everything from my first program to increasingly complex projects as I improve.
 
-My name is **Krishnanshu Kashyap**. I am a 19-year-old tech enthusiast with a passion for learning and building. I am learning the C language right now because of my college starting and i had to learn it for my semester so i put Python on hold.
-When I'm not coding, you'll probably find me gaming, watching anime, exploring new technology, or studying Japanese.
-
-I'm also a huge anime fan, so you'll occasionally find references, inspiration, or project ideas influenced by the series I enjoy.
+I'm treating this repository like a public coding journal—a place to practice, build, make mistakes, learn from them, and track my progress over time.
 
 ---
 
-## Purpose of This Repository
+# 👨‍💻 About Me
 
-This repository will contain:
-* Beginner C projects
-* Practice exercises
-* Learning experiments
-* Problem-solving challenges
-* Personal coding milestones
+Hi! I'm **Krishnanshu Kashyap**.
 
-My goal is simple: stay consistent, keep improving, and document the process honestly.
+I'm a **19-year-old** developer passionate about programming, AI, technology, and continuous learning.
+
+Although I previously focused on **Python**, I temporarily put it on hold to learn **C** for my first semester in college. Instead of just completing assignments, I decided to document the entire learning process publicly.
+
+Outside programming, I enjoy:
+
+* 🎮 Gaming
+* 🎌 Anime & Manga
+* 🤖 AI & Machine Learning
+* 🎥 Video Editing
+* 🇯🇵 Learning Japanese
 
 ---
 
-## Connect With Me
+# 📌 Why This Repository Exists
 
-* **Discord:** `rogueink`
-* **Instagram:** [@rogue.kk](https://instagram.com/rogue.kk)
+This repository is more than just random C files.
 
-If you happen to come across this repository, feel free to reach out. Whether it's a coding tip, constructive feedback, or simply a word of encouragement, I'd genuinely appreciate it. 
+It contains:
 
-Every small interaction helps make this journey a little more enjoyable and motivating.
+* 📖 Daily learning projects
+* 🧪 Programming experiments
+* 📝 Practice exercises
+* 🧩 Problem-solving challenges
+* 📈 Personal coding milestones
 
-## PROJECT DESCRIPTIONS:
-* **FIRST OF ALL , at starting of each project file u can find project purpose commented so dw**
-* Project 1 : My first day learning so i just made simple claculation from variable pre given inputs
-* Project 2: My Second day learning , so i just made a simple user input program where i take what item user bought and quanity and price of item than add the total cost and display it to the user.
-* Project 3: My Third day learning , So i just made a simple Compound Interest calculator that takes in input value needed and calculate total interest. Used math header for pow fn.
-* Project 4: My fourth day learning , So i just made a simple calculator to perform very basic calculation on only 2 input number.
+The goal is simple:
 
-## DAILY DIARY
-* **Just like my python diary , this gonna be my C diary**
-* So , First of all I think i hate C , its too confusing and too sensitive !
-* On 18 July , Saturday , I did no projects cuz still learning new topics did a madlib thing but it wasnt a project , pretty much basic thing that i already did use in my last 2 project.
-* I only make Project when i learn something new.
-* On 19th July , Sunday Though a day to rest or just revise , i did study math library and used it to make a Compound Interest Calculator
-* On 20th July , Woke and did start learning new concepts that were if , operators and switch and based on that made a simple calculator
+> **Stay consistent. Build often. Keep improving.**
+
+---
+
+# 📂 Repository Structure
+
+Each project includes comments at the beginning explaining:
+
+* Project purpose
+* Concepts used
+* What I learned while making it
+
+This makes it easier to revisit projects later and see my progress.
+
+---
+
+# 📚 Projects
+
+| Project       | Description                                                                                          | Concepts Learned                               |
+| ------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **Project 1** | Basic calculations using predefined variables. My very first C program.                              | Variables, Arithmetic Operators                |
+| **Project 2** | Simple billing program that takes user input, quantity, and price before calculating the total cost. | User Input, Variables, Arithmetic              |
+| **Project 3** | Compound Interest Calculator using the `math.h` library and the `pow()` function.                    | Functions, `math.h`, Mathematical Calculations |
+| **Project 4** | Basic calculator performing arithmetic operations on two numbers.                                    | `if`, Operators, `switch` Statement            |
+
+More projects will be added as I continue learning.
+
+---
+
+# 📖 Daily Diary
+
+## July 16, 2026
+
+Started learning C.
+
+Coming from Python, C immediately felt much stricter and less forgiving—but that's exactly what makes it interesting.
+
+---
+
+## July 18, 2026
+
+No major project today.
+
+Spent time learning new concepts and created a small Mad Lib program for practice. It wasn't substantial enough to count as a project, so I didn't include it here.
+
+---
+
+## July 19, 2026
+
+Learned how to use the **Math Library (`math.h`)**.
+
+Built my first **Compound Interest Calculator**, which introduced me to the `pow()` function.
+
+---
+
+## July 20, 2026
+
+Learned:
+
+* `if`
+* Comparison operators
+* Logical operators
+* `switch`
+
+Used these concepts to build a simple calculator.
+
+---
+
+# 🎯 Current Goal
+
+* Learn C from Beginner → Intermediate
+* Build increasingly better projects
+* Understand programming fundamentals deeply
+* Prepare for college coursework
+* Become comfortable solving problems using C
+
+---
+
+# 🤝 Connect With Me
+
+📷 **Instagram:** https://instagram.com/rogue.kk
+
+💬 **Discord:** `rogueink`
+
+If you have suggestions, spot a mistake, or simply want to say hello, feel free to reach out.
+
+Constructive feedback is always appreciated.
+
+---
+
+# ⭐ Thanks for Visiting!
+
+If you found this repository interesting, consider giving it a ⭐.
+
+It motivates me to keep learning and sharing my progress.
