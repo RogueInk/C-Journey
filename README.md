@@ -124,7 +124,7 @@ Used these concepts to build a simple calculator.
 
 📷 **Instagram:** https://instagram.com/rogue.kk
 
-💬 **Discord:** `rogueink`
+💬 **Discord:** `rg_krishna67`
 
 If you have suggestions, spot a mistake, or simply want to say hello, feel free to reach out.
 
