@@ -40,6 +40,7 @@ Every small interaction helps make this journey a little more enjoyable and moti
 * Project 1 : My first day learning so i just made simple claculation from variable pre given inputs
 * Project 2: My Second day learning , so i just made a simple user input program where i take what item user bought and quanity and price of item than add the total cost and display it to the user.
 * Project 3: My Third day learning , So i just made a simple Compound Interest calculator that takes in input value needed and calculate total interest. Used math header for pow fn.
+* Project 4: My fourth day learning , So i just made a simple calculator to perform very basic calculation on only 2 input number.
 
 ## DAILY DIARY
 * **Just like my python diary , this gonna be my C diary**
@@ -47,4 +48,4 @@ Every small interaction helps make this journey a little more enjoyable and moti
 * On 18 July , Saturday , I did no projects cuz still learning new topics did a madlib thing but it wasnt a project , pretty much basic thing that i already did use in my last 2 project.
 * I only make Project when i learn something new.
 * On 19th July , Sunday Though a day to rest or just revise , i did study math library and used it to make a Compound Interest Calculator
-
+* On 20th July , Woke and did start learning new concepts that were if , operators and switch and based on that made a simple calculator

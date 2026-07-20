@@ -1,5 +1,6 @@
-// This program calculates the total cost of an item after getting the item name, price, and quantity from the user.
-
+/* This program calculates the total cost of an item after getting the item name, price, 
+and quantity from the user.
+*/
 #include <stdio.h>
 #include <string.h>
 
