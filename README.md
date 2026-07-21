@@ -122,7 +122,7 @@ Practiced these concepts by creating a simple calculator exercise.
 
 # 🤝 Connect With Me
 
-📷 **Instagram:** **[@rg_krishna67](https://instagram.com/rogue.kk)**
+📷 **Instagram:** **[@rg_krishna67](https://instagram.com/rg_krishna67)**
 
 💬 **Discord:** `rogueink`
 
