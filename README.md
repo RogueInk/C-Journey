@@ -108,15 +108,28 @@ Learned:
 
 Practiced these concepts by creating a simple calculator exercise.
 
+## July 21-22, 2026
+Learned:
+* Function
+* Logical Operators
+* Github Readme Formatting and updated whole repo structure
+
+## July 23 , 2026
+Learned:
+* Variable Scope
+* return
+* Function Prototype
+
+First Draft of a1 eligiblity checker but will update it with more feature! 
 ---
 
 # 🎯 Current Goal
 
-* Learn C from Beginner → Intermediate
-* Complete practice exercises consistently
-* Strengthen programming fundamentals
-* Prepare for college coursework
-* Become comfortable solving problems using C
+* Learn C from Beginner → Intermediate.
+* Complete practice exercises consistently.
+* Strengthen programming fundamentals.
+* Prepare for college coursework.
+* Become comfortable solving problems using C.
 
 ---
 
