@@ -66,7 +66,7 @@ This makes it easier to revisit previous exercises and see how my understanding 
 | **Exercise 2** | Simple billing program that takes user input, quantity, and price before calculating the total cost. | User Input, Variables, Arithmetic              |
 | **Exercise 3** | Compound Interest Calculator using the `math.h` library and the `pow()` function.                    | Functions, `math.h`, Mathematical Calculations |
 | **Exercise 4** | Basic calculator performing arithmetic operations on two numbers.                                    | `if`, Operators, `switch` Statement            |
-
+| **Exercise 5** | Basic Function return performing with logical operations on input grades.                                    | `void/char`, Functions, `if/for` loop Statement            |
 More exercises will be added as I continue learning new concepts.
 
 ---
@@ -121,6 +121,13 @@ Learned:
 * Function Prototype
 
 First Draft of a1 eligiblity checker but will update it with more feature! 
+
+## July 24 , 2026
+Learned:
+* About Biju's Guide on C existence
+* For loop
+* Function Prototype
+Made a simple function , return , input fetch calculate average marks and final grade user.
 ---
 
 # 🎯 Current Goal
