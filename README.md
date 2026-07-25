@@ -128,6 +128,9 @@ Learned:
 * For loop
 * Function Prototype
 Made a simple function , return , input fetch calculate average marks and final grade user.
+
+## July 24 , 2026
+No Exercise today since i woke up and had an urgent work to attend and will return by Monday.
 ---
 
 # 🎯 Current Goal
