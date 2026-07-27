@@ -139,8 +139,8 @@ Learned:
 * For
 * While/Do While
 * Break/Continue
-
 Made a Table Gen project for generating random tables 
+
 ---
 
 # 🎯 Current Goal
