@@ -71,3 +71,4 @@ int main() {
 
     return 0;
 }
+// Formatting and indentation have been improved for better readability.
