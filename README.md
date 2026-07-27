@@ -139,7 +139,8 @@ Learned:
 * For
 * While/Do While
 * Break/Continue
-Made a Table Gen project for generating random tables 
+
+Made a Table Gen project for generating random tables
 
 ---
 
