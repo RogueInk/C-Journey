@@ -67,6 +67,8 @@ This makes it easier to revisit previous exercises and see how my understanding 
 | **Exercise 3** | Compound Interest Calculator using the `math.h` library and the `pow()` function.                    | Functions, `math.h`, Mathematical Calculations |
 | **Exercise 4** | Basic calculator performing arithmetic operations on two numbers.                                    | `if`, Operators, `switch` Statement            |
 | **Exercise 5** | Basic Function return performing with logical operations on input grades.                                    | `void/char`, Functions, `if/for` loop Statement            |
+| **Exercise 6** | Basic Function Prototype and if's and other concept for a simple Eligibility checking.                              | If and Function                |
+
 More exercises will be added as I continue learning new concepts.
 
 ---
@@ -120,7 +122,7 @@ Learned:
 * return
 * Function Prototype
 
-First Draft of a1 eligiblity checker but will update it with more feature! 
+Practice these by making eligibility checker type C program in Exercise 6
 
 ## July 24 , 2026
 Learned:
@@ -129,8 +131,16 @@ Learned:
 * Function Prototype
 Made a simple function , return , input fetch calculate average marks and final grade user.
 
-## July 24 , 2026
+## July 25 , 2026
 No Exercise today since i woke up and had an urgent work to attend and will return by Monday.
+
+## July 27, 2026
+Learned:
+* For
+* While/Do While
+* Break/Continue
+
+Made a Table Gen project for generating random tables 
 ---
 
 # 🎯 Current Goal
