@@ -142,6 +142,13 @@ Learned:
 
 Made a Table Gen project for generating random tables
 
+## July 27, 2026
+Learned:
+* Rand
+* time
+
+Made a Random Number guessing program , yeah the standard proj of beginners haha..
+
 ---
 
 # 🎯 Current Goal
