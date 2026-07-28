@@ -142,7 +142,7 @@ Learned:
 
 Made a Table Gen project for generating random tables
 
-## July 27, 2026
+## July 28, 2026
 Learned:
 * Rand
 * time
