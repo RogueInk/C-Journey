@@ -132,7 +132,7 @@ Learned:
 Made a simple function , return , input fetch calculate average marks and final grade user.
 
 ## July 25 , 2026
-No Exercise today since i woke up and had an urgent work to attend and will return by Monday.
+* No Exercise today since i woke up and had an urgent work to attend and will return by Monday.
 
 ## July 27, 2026
 Learned:
@@ -148,6 +148,13 @@ Learned:
 * time
 
 Made a Random Number guessing program , yeah the standard proj of beginners haha..
+
+## July 29, 2026
+* Was busy with setting up Oracle Virtual Box and OS , to dive deep stuffs 😈
+
+## July 30, 2026
+Learned:
+* Nothing tbh , just did new project of rock paper scissor game using the previous concepts learned
 
 ---
 
