@@ -1,5 +1,6 @@
-// Project Concept used: Nested Loops and While/For Loop for Creating a Multiplication Table Generator.
-
+/* Project Concept used: Nested Loops and While/For Loop for Creating a Multiplication Table 
+Generator.
+*/
 #include <stdio.h>
 #include <stdbool.h>
 
