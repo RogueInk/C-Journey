@@ -1,3 +1,9 @@
+/*
+This is a simple Rock Paper Scissors game implemented in C. The program allows the user to 
+play against the computer. The user can choose between Rock, Paper, or Scissors, and the 
+computer randomly selects one of the three options. The program then determines the winner
+based on the classic rules of the game and displays the result to the user.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
