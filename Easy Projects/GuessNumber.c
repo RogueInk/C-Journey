@@ -1,3 +1,10 @@
+/*
+This is a simple number guessing game implemented in C. 
+The program generates a random number between 1 and 100, and the user has to guess the number.
+The program provides feedback on whether the guess is too low or too high, and counts 
+the number of attempts made by the user. Once the correct number is guessed, the program
+congratulates the user and displays the total number of attempts taken to guess the number.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
