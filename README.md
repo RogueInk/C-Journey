@@ -153,9 +153,11 @@ Made a Random Number guessing program , yeah the standard proj of beginners haha
 * Was busy with setting up Oracle Virtual Box and OS , to dive deep stuffs 😈
 
 ## July 30, 2026
-Learned:
-* Nothing tbh , just did new project of rock paper scissor game using the previous concepts learned
-
+Project:
+* Made a new project of rock paper scissor game using the previous concepts learned.
+## July 31, 2026
+Project:
+* Made a new project of Banking program using all the previously learned concept.
 ---
 
 # 🎯 Current Goal
