@@ -158,6 +158,10 @@ Project:
 ## July 31, 2026
 Project:
 * Made a new project of Banking program using all the previously learned concept.
+
+## August 1, 2026
+* Rest Day
+
 ---
 
 # 🎯 Current Goal
