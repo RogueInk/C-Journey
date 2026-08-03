@@ -60,14 +60,16 @@ This makes it easier to revisit previous exercises and see how my understanding 
 
 # 📚 Practice Exercises
 
-| Exercise       | Description                                                                                          | Concepts Practiced                             |
-| -------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| **Exercise 1** | Basic calculations using predefined variables. My very first C program.                              | Variables, Arithmetic Operators                |
-| **Exercise 2** | Simple billing program that takes user input, quantity, and price before calculating the total cost. | User Input, Variables, Arithmetic              |
-| **Exercise 3** | Compound Interest Calculator using the `math.h` library and the `pow()` function.                    | Functions, `math.h`, Mathematical Calculations |
-| **Exercise 4** | Basic calculator performing arithmetic operations on two numbers.                                    | `if`, Operators, `switch` Statement            |
-| **Exercise 5** | Basic Function return performing with logical operations on input grades.                                    | `void/char`, Functions, `if/for` loop Statement            |
-| **Exercise 6** | Basic Function Prototype and if's and other concept for a simple Eligibility checking.                              | If and Function                |
+| Exercise | Description | Concepts Practiced |
+|----------|-------------|--------------------|
+| **Exercise 1** | Basic calculations using predefined variables. My very first C program. | Variables, Arithmetic Operators |
+| **Exercise 2** | Simple billing program that takes user input, quantity, and price before calculating the total cost. | User Input, Variables, Arithmetic |
+| **Exercise 3** | Compound Interest Calculator using the `math.h` library and the `pow()` function. | Functions, `math.h`, Mathematical Calculations |
+| **Exercise 4** | Basic calculator performing arithmetic operations on two numbers. | `if`, Operators, `switch` Statement |
+| **Exercise 5** | Basic function implementation with logical operations to determine grades based on user input. | Functions, `void`, `char`, Logical Operators |
+| **Exercise 6** | Eligibility Checker using function prototypes and conditional statements. | Function Prototype, `if`, Return Values |
+| **Exercise 7** | Program to traverse and print all elements of a one-dimensional integer array. | Arrays, `sizeof`, `for` Loop |
+| **Exercise 8** | Displayed a mobile numpad layout using a two-dimensional character array. | 2D Arrays, Nested `for` Loops |
 
 More exercises will be added as I continue learning new concepts.
 
@@ -161,6 +163,32 @@ Project:
 
 ## August 1, 2026
 * Rest Day
+
+## August 2, 2026
+
+Learned:
+
+* One-Dimensional Arrays
+* `sizeof()` with Arrays
+* Array Traversal using `for` Loop
+
+Practice:
+
+* Created **Exercise 7**, which prints every element of an integer array using a loop.
+
+---
+
+## August 3, 2026
+
+Learned:
+
+* Two-Dimensional Arrays
+* Nested `for` Loops
+* Matrix-style Data Traversal
+
+Practice:
+
+* Created **Exercise 8**, which displays a telephone numpad using a 2D character array.
 
 ---
 
