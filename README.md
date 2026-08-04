@@ -187,8 +187,19 @@ Learned:
 * Matrix-style Data Traversal
 
 Practice:
-
 * Created **Exercise 8**, which displays a telephone numpad using a 2D character array.
+
+## August 4, 2026
+
+Learned:
+
+* Two-Dimensional String Arrays.
+* toupper() fn from ctype.h
+* Matrix-style Data Traversal
+
+Project:
+* Created **QuizGame**, which is literally just quiz game.
+
 
 ---
 
