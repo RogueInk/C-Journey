@@ -200,6 +200,17 @@ Learned:
 Project:
 * Created **QuizGame**, which is literally just quiz game.
 
+## August 5, 2026
+
+Learned:
+
+* Explored LOCAL MODELS.
+* Obsidian
+* Openclaw, and more stuff about llm's.
+
+Takeaway:
+* No C today since i was trying to learn Hermes Agent, Obsidian , LLM's , took me 4hr.
+
 
 ---
 
