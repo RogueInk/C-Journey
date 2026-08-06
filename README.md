@@ -70,9 +70,10 @@ This makes it easier to revisit previous exercises and see how my understanding 
 | **Exercise 6** | Eligibility Checker using function prototypes and conditional statements. | Function Prototype, `if`, Return Values |
 | **Exercise 7** | Program to traverse and print all elements of a one-dimensional integer array. | Arrays, `sizeof`, `for` Loop |
 | **Exercise 8** | Displayed a mobile numpad layout using a two-dimensional character array. | 2D Arrays, Nested `for` Loops |
+| **Exercise 9** | Displayed time in 12-hour format using the ternary operator to determine AM or PM. | Ternary Operator (`?:`), Conditional Expressions, Strings |
+| **Exercise 10** | Introduced enumerations by creating an enum for the days of the week and printing an enum value. | `enum`, `typedef`, Custom Data Types |
 
 More exercises will be added as I continue learning new concepts.
-
 ---
 
 # 📖 Daily Diary
@@ -211,6 +212,31 @@ Learned:
 Takeaway:
 * No C today since i was trying to learn Hermes Agent, Obsidian , LLM's , took me 4hr.
 
+## August 6, 2026
+
+Learned:
+
+* Ternary Operator (`?:`)
+* Shorthand Conditional Expressions
+* Basic Time Formatting
+
+Practice:
+
+* Created **Exercise 9**, which displays time in a 12-hour format and determines whether it is **AM** or **PM** using the ternary operator.
+
+---
+
+## August 7, 2026
+
+Learned:
+
+* Enumerations (`enum`)
+* `typedef`
+* Creating Custom Data Types
+
+Practice:
+
+* Created **Exercise 10**, introducing enums by defining the days of the week and printing an enum value.
 
 ---
 
