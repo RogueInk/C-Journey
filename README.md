@@ -72,6 +72,7 @@ This makes it easier to revisit previous exercises and see how my understanding 
 | **Exercise 8** | Displayed a mobile numpad layout using a two-dimensional character array. | 2D Arrays, Nested `for` Loops |
 | **Exercise 9** | Displayed time in 12-hour format using the ternary operator to determine AM or PM. | Ternary Operator (`?:`), Conditional Expressions, Strings |
 | **Exercise 10** | Introduced enumerations by creating an enum for the days of the week and printing an enum value. | `enum`, `typedef`, Custom Data Types |
+| **Exercise 11** | Introduced struct while creating an enum for the cars and students data and printing in array of struct too. | `struct`, `typedef`, Custom Data Types |
 
 More exercises will be added as I continue learning new concepts.
 ---
@@ -237,6 +238,15 @@ Learned:
 Practice:
 
 * Created **Exercise 10**, introducing enums by defining the days of the week and printing an enum value.
+
+## August 8, 2026
+
+Learned:
+* Struct
+* Array of Struct
+* Pointers
+
+* Did an **Exercise** (Exercise 11), using struct and arrays struct. Did pointers already in exercise 10
 
 ---
 
