@@ -57,6 +57,13 @@ Each exercise includes comments at the beginning explaining:
 This makes it easier to revisit previous exercises and see how my understanding has improved.
 
 ---
+# The Guide's i followed -
+* [Programming in C by Bro Code](https://youtu.be/xND0t1pr3KY)
+* [Beej's Guide Docs](https://beej.us/guide/bgc/html/split)
+* Exercises listed below are all from BroCode
+* The non listed exercise in GeekExercise folder are from - [GeeksForGeeks](https://www.geeksforgeeks.org/c/c-programming-examples/)
+
+---
 
 # 📚 Practice Exercises
 
@@ -75,8 +82,9 @@ This makes it easier to revisit previous exercises and see how my understanding 
 | **Exercise 11** | Introduced struct while creating an enum for the cars and students data and printing in array of struct too. | `struct`, `typedef`, Custom Data Types |
 | **Exercise 12** | Simple Read/Write Files C exercise to just check how it works. | `fopen()`, `fprintf()`|
 | **Exercise 13** | Simple Grades input program for just checking how malloc works | `malloc`, `free()`|
+| **Exercise 14** | Simple input storing and assinging memmory using calloc | `calloc`, `malloc()`|
 
-More exercises will be added as I continue learning new concepts.
+THIS IS IT FOR BEGINNER STARTED C exercises.
 ---
 
 # 📖 Daily Diary
@@ -259,16 +267,26 @@ Learned:
 
 * Did two **Exercise** (Exercise 12,13), using read/write Files and malloc.
 
+## August 11, 2026
+
+Learned:
+* calloc
+* realloc
+* time lib tm data structure
+
+* Did 1 **Exercise** (Exercise 14), using calloc and malloc.
+* Did 1 **PROJECT** Digital Clock to print live time using time lib
+
 
 ---
 
 # 🎯 Current Goal
 
-* Learn C from Beginner → Intermediate.
-* Complete practice exercises consistently.
-* Strengthen programming fundamentals.
-* Prepare for college coursework.
-* Become comfortable solving problems using C.
+* Learn C from Beginner → Intermediate. ✅
+* Complete practice exercises consistently.✅
+* Strengthen programming fundamentals.✅
+* Prepare for college coursework.✅
+* Become comfortable solving problems using C.✅
 
 ---
 
