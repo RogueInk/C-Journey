@@ -57,11 +57,11 @@ Each exercise includes comments at the beginning explaining:
 This makes it easier to revisit previous exercises and see how my understanding has improved.
 
 ---
-# The Guide's i followed -
+# The Guide's I followed -
 * [Programming in C by Bro Code](https://youtu.be/xND0t1pr3KY)
 * [Beej's Guide Docs](https://beej.us/guide/bgc/html/split)
 * Exercises listed below are all from BroCode
-* The non listed exercise in GeekExercise folder are from - [GeeksForGeeks](https://www.geeksforgeeks.org/c/c-programming-examples/)
+* The non listed exercise in Good Practices folder are from - [GeeksForGeeks](https://www.geeksforgeeks.org/c/c-programming-examples/)
 
 ---
 
